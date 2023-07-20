@@ -10,7 +10,7 @@ import CreateMovie from "./components/CreateMovie";
 import ActorForm from "./components/ActorForm";
 import ProducerForm from "./components/ProducerForm";
 //Backend URL
-export const URL="http://localhost:5000";
+export const URL="https://imdb-clone-io-factory.onrender.com";
 
 function App() {
   return (
